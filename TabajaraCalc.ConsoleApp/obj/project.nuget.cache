@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxy6ECXzeJc=",
+  "success": true,
+  "projectFilePath": "/home/Apollo/prog_logic/TabajaraCalc.ConsoleApp/TabajaraCalc.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/Apollo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
