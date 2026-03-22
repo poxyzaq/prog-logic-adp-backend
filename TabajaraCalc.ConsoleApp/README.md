@@ -1,6 +1,6 @@
 # TabajaraCalc
 
-![A calculator that runs in the terminal](./.docs/TabajaraCalc.mp4)
+![A calculator that runs in the terminal](https://github.com/user-attachments/assets/de10b6d2-c1fe-402c-b170-a9f23829cf03)
 
 ## Project
 
