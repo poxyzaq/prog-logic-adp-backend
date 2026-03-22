@@ -1,11 +1,9 @@
 # TabajaraCalc
 
-![A calculator that runs in the terminal](https://github.com/user-attachments/assets/de10b6d2-c1fe-402c-b170-a9f23829cf03)
-
 
 | |
 |---|
-| https://github.com/user-attachments/assets/5f9a2768-2ba1-4a53-b5c9-151c8f103ccf |
+| https://github.com/user-attachments/assets/4208142d-0361-48cc-99b8-7acec7dda633 |
 | *Demo: Calculator running* |
 
 
