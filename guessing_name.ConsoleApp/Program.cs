@@ -1,12 +1,9 @@
-﻿namespace TabajaraCalc.ConsoleApp;
+﻿namespace guessing_name.ConsoleApp;
 
 class Program
 {
     static void Main(string[] args)
     {
-    etteec
-    tetet
         Console.WriteLine("Hello, World!");
-        Console.WriteC
     }
 }
