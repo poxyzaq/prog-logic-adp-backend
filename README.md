@@ -1,21 +1,27 @@
 # prog-logic-adp-backend
 
-Projects and developed during the **Academia do Programador (ADP) back-end** course — a programming training program covering fundamentals all the way to professional practice.
+Projects developed during the **Academia do Programador (ADP) back-end** course — a programming training program covering fundamentals all the way to professional practice.
 
 ---
 
 ## 📁 Projects
 
+Each project contains its own `README.md` with more detailed information.
+
 ### 🧮 tabajara-calculator.ConsoleApp
+
 A console-based calculator application.
 
-Each project contains its own `README.md` with more detailed information about its purpose.
+### 🎮 guessing-game.ConsoleApp
+
+A console-based number guessing game.
 
 ---
 
 ## 🗂️ Solution
 
 The projects are organized under a single solution file:
+
 - `prog_logic.slnx` — the main solution file that groups all projects together.
 
 ---
@@ -23,29 +29,34 @@ The projects are organized under a single solution file:
 ## 🌿 Branches
 
 | Branch | Description |
-|--------|-------------|
+| --- | --- |
 | `main` | Stable, production-ready code |
-| `v0`   | Initial version / early experiments |
-| `v1`   | First iteration of features |
-| `v2`   | Second iteration / ongoing development |
+| `v0` | Initial version / early experiments |
+| `v1` | First iteration of features |
+| `v2` | Second iteration of features |
+| `v3` | Ongoing development |
+
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- [.NET SDK](https://dotnet.microsoft.com/download) (version 8.0 or later recommended)
+
+- [.NET SDK](https://dotnet.microsoft.com/download) 10.0
 
 ### Running a project
-
 ```bash
 # Clone the repository
 git clone https://github.com/poxyzaq/prog-logic-adp-backend.git
 cd prog-logic-adp-backend
 
-# Run the calculator
-cd tabajara-calculator.ConsoleApp
-dotnet run
+# Restore dependencies
+dotnet restore
+
+# Run a project
+dotnet run --project tabajara-calculator.ConsoleApp
+dotnet run --project guessing-game.ConsoleApp
 ```
 
 ---
@@ -61,5 +72,3 @@ dotnet run
 ## 🎓 About
 
 This repository is part of the **Academia do Programador** course curriculum — a complete professional software development training program available in-person and online in Brazil.
-
----
