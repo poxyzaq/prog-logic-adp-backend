@@ -1,6 +1,6 @@
 # prog-logic-adp-backend
 
-Projects and developed during the **Academia do Programador (ADP) back-end ** course — a programming training program covering fundamentals all the way to professional practice.
+Projects and developed during the **Academia do Programador (ADP) back-end** course — a programming training program covering fundamentals all the way to professional practice.
 
 ---
 
