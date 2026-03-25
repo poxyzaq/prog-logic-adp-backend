@@ -1,4 +1,8 @@
 <Solution>
+<<<<<<< HEAD
   <Project Path="guessing_name.ConsoleApp/guessing_name.ConsoleApp.csproj" />
+=======
+  <Project Path="guessing-game.ConsoleApp/guessing-game.ConsoleApp.csproj" />
+>>>>>>> v2
   <Project Path="tabajara-calculator.ConsoleApp/tabajara-calculator.ConsoleApp.csproj" />
 </Solution>
