@@ -21,4 +21,4 @@ A simple yet powerful console calculator that allows you to perform the four bas
  
 ## 🚀 How to Use
  
-Program usage is described on the [project root folder README.md](../README.md).
+Program usage is described on the [project root folder README.md](https://github.com/poxyzaq/prog-logic-adp-backend?tab=readme-ov-file#prog-logic-adp-backend)
