@@ -1,4 +1,4 @@
-# TabajaraCalc
+# Tabajara Calculator
 
 *Demo: Calculator running*
 
@@ -33,7 +33,7 @@ A simple yet powerful console calculator that allows you to perform the four bas
 4. Then compile and run the project with the command:
 
     ```
-    dotnet run --project TabajaraCalc.ConsoleApp
+    dotnet run --project tabajara-calculator.ConsoleApp
     ```
 
 ## Requirements
