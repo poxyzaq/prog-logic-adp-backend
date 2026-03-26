@@ -29,7 +29,7 @@
                     case ConsoleKey.D1:
                     case ConsoleKey.NumPad1:
                         // numpad keys have to be checked
-                        // indenpendently
+                        // independently
                         totalLifes = 10;
                         maxNumber = 20;
                         break;
