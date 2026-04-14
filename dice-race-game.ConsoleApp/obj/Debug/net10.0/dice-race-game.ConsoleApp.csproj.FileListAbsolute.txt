@@ -1,0 +1,15 @@
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/bin/Debug/net10.0/dice-race-game.ConsoleApp
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/bin/Debug/net10.0/dice-race-game.ConsoleApp.deps.json
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/bin/Debug/net10.0/dice-race-game.ConsoleApp.runtimeconfig.json
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/bin/Debug/net10.0/dice-race-game.ConsoleApp.dll
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/bin/Debug/net10.0/dice-race-game.ConsoleApp.pdb
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/obj/Debug/net10.0/dice-race-game.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/obj/Debug/net10.0/dice-race-game.ConsoleApp.AssemblyInfoInputs.cache
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/obj/Debug/net10.0/dice-race-game.ConsoleApp.AssemblyInfo.cs
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/obj/Debug/net10.0/dice-race-game.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/obj/Debug/net10.0/dice-race-game.ConsoleApp.sourcelink.json
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/obj/Debug/net10.0/dice-race-game.ConsoleApp.dll
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/obj/Debug/net10.0/refint/dice-race-game.ConsoleApp.dll
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/obj/Debug/net10.0/dice-race-game.ConsoleApp.pdb
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/obj/Debug/net10.0/dice-race-game.ConsoleApp.genruntimeconfig.cache
+/home/poxy/csharp-logic-proj/dice-race-game.ConsoleApp/obj/Debug/net10.0/ref/dice-race-game.ConsoleApp.dll
