@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tabajara-calculator.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4722b6482f827dc03f6c0c2a7c17201dc7853397")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5949a5da0fe424c6adfcf6664e1f49676f3c9cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("tabajara-calculator.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tabajara-calculator.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
