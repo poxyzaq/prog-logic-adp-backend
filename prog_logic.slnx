@@ -8,6 +8,7 @@
 =======
   <Project Path="dice-race-game.ConsoleApp/dice-race-game.ConsoleApp.csproj" />
   <Project Path="guessing-game.ConsoleApp/guessing-game.ConsoleApp.csproj" />
+  <Project Path="hangman-game.ConsoleApp/hangman-game.ConsoleApp.csproj" />
   <Project Path="hangman_game.ConsoleApp/hangman_game.ConsoleApp.csproj" />
 >>>>>>> v1
   <Project Path="tabajara-calculator.ConsoleApp/tabajara-calculator.ConsoleApp.csproj" />
