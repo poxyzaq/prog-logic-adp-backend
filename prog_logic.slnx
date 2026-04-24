@@ -3,5 +3,6 @@
   <Project Path="guessing-game.ConsoleApp/guessing-game.ConsoleApp.csproj" />
   <Project Path="hangman-game.ConsoleApp/hangman-game.ConsoleApp.csproj" />
   <Project Path="hangman_game.ConsoleApp/hangman_game.ConsoleApp.csproj" />
+  <Project Path="RockPaperScissors.ConsoleApp/RockPaperScissors.ConsoleApp.csproj" />
   <Project Path="tabajara-calculator.ConsoleApp/tabajara-calculator.ConsoleApp.csproj" />
 </Solution>
